@@ -1,4 +1,4 @@
-# 2chat/coturn:latest
+# coturn-docker
 
 This is an autobuild docker image repo for an Alpine based 44M image build of coturn.
 
