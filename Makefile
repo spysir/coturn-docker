@@ -1,2 +1,2 @@
 build:
-	docker build -t 2chat/coturn .
+	docker build -t yesir/coturn .
